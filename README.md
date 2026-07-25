@@ -7,6 +7,19 @@ Public **draft** snapshot of the final technical package for
 
 This repository contains **only** the seven release artifacts from the post-audit final package.
 
+**Scope of this repo:** dimensions **6 ≤ n ≤ 15** only. It does **not** contain a proof for `n = 5`.
+
+## Related work: dimension 5
+
+For the **n = 5** case, see the independent working proof by **Pedro Paulo Marques do Nascimento** (`pedromnasc`):
+
+- Repository: [pedromnasc/dittert-conjecture-proof](https://github.com/pedromnasc/dittert-conjecture-proof)
+- n = 5 package: [n5/](https://github.com/pedromnasc/dittert-conjecture-proof/tree/main/n5)
+- PDF: [dittert_n5_exact_proof.pdf](https://github.com/pedromnasc/dittert-conjecture-proof/blob/main/n5/dittert_n5_exact_proof.pdf)
+- LaTeX: [dittert_n5_exact_proof.tex](https://github.com/pedromnasc/dittert-conjecture-proof/blob/main/n5/dittert_n5_exact_proof.tex)
+
+That repository’s stated coverage is dimensions **4, 5, and 8–16** (not a substitute for the 6–15 package here). Materials there are likewise working proofs and have not undergone formal peer review.
+
 ## Files
 
 | File | Description |
