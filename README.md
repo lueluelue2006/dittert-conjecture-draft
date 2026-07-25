@@ -5,6 +5,11 @@ Public **draft** snapshot of the final technical package for
 > **Dittert’s Conjecture in Dimensions Six through Fifteen**  
 > (exact computer-assisted proof; not refereed)
 
+## Author
+
+- **Hongyuan Lu**
+- ORCID: [0009-0008-9446-9016](https://orcid.org/0009-0008-9446-9016)
+
 This repository contains **only** the seven release artifacts from the post-audit final package.
 
 **Scope of this repo:** dimensions **6 ≤ n ≤ 15** only. It does **not** contain a proof for `n = 5`.
@@ -47,4 +52,5 @@ Expected: `status: passed`.
 
 ## Notes
 
-- Not a journal publication. Author / affiliation / ORCID / funding fields may still be placeholders.
+- Not a journal publication. Affiliation / funding / acknowledgements may still be incomplete.
+- The compiled PDF in this snapshot may still show the previous anonymous title-page line until recompiled from the updated `.tex`.
