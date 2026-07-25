@@ -48,4 +48,3 @@ Expected: `status: passed`.
 ## Notes
 
 - Not a journal publication. Author / affiliation / ORCID / funding fields may still be placeholders.
-- Source conversation: `https://chatgpt.com/c/6a63bcb4-5054-83eb-8fd9-a5198d9c4222`
