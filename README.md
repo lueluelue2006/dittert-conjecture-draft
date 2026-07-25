@@ -53,4 +53,4 @@ Expected: `status: passed`.
 ## Notes
 
 - Not a journal publication. Affiliation / funding / acknowledgements may still be incomplete.
-- The compiled PDF in this snapshot may still show the previous anonymous title-page line until recompiled from the updated `.tex`.
+- Compiled PDF title page / metadata use author **Hongyuan Lu** and ORCID `0009-0008-9446-9016`.
